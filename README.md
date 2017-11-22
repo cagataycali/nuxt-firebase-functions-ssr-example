@@ -5,10 +5,12 @@
 
 @Root directory.
 
+```bash
 yarn generate
 yarn build
 yarn package-functions
 firebase serve --only functions,hosting
+```
 
 ## Build Setup
 
